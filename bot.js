@@ -30,7 +30,7 @@ client.on('ready', async() => {
 var server = "473977539929309184"; 
 var channel = "492100568094081034";
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('كودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودزكودز ')
+    client.guilds.get(server).channels.get(channel).send('@eveyrone @eveyrone @eveyrone @eveyrone @eveyrone ')
     },305);
 })
 
